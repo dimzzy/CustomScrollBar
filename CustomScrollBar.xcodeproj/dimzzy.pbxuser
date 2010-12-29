@@ -1,0 +1,238 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CustomScrollBarAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 1061}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 527}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CustomScrollBarAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1424}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{509, 2240}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CustomScrollBar */ = {
+		activeExec = 0;
+		executables = (
+			1FD7406912CB449900E98341 /* CustomScrollBar */,
+		);
+	};
+	1FD7406912CB449900E98341 /* CustomScrollBar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CustomScrollBar;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1FD7407A12CB449E00E98341 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1FD7407B12CB449E00E98341 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1FD7407D12CB451A00E98341 /* CustomScrollBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 1061}}";
+			sepNavSelRange = "{534, 0}";
+			sepNavVisRange = "{0, 540}";
+		};
+	};
+	1FD7407E12CB451A00E98341 /* CustomScrollBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 3280}}";
+			sepNavSelRange = "{1739, 0}";
+			sepNavVisRange = "{1492, 1856}";
+		};
+	};
+	1FD7409112CB510E00E98341 /* UIScrollView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIScrollView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIScrollView.h;
+		sourceTree = "<absolute>";
+	};
+	1FD7409212CB510E00E98341 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1FD7408312CB493B00E98341 /* thumb.png */;
+	};
+	1FD740BB12CBDD7D00E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FD7409112CB510E00E98341 /* UIScrollView.h */;
+		name = "UIScrollView.h: 151";
+		rLen = 113;
+		rLoc = 6009;
+		rType = 0;
+		vrLen = 4358;
+		vrLoc = 4043;
+	};
+	1FD7410B12CBE54100E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CustomScrollBarAppDelegate.h */;
+		name = "CustomScrollBarAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 0;
+	};
+	1FD7410C12CBE54100E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CustomScrollBarAppDelegate.m */;
+		name = "CustomScrollBarAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2240;
+		vrLoc = 509;
+	};
+	1FD7410D12CBE54100E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CustomScrollBarViewController.h */;
+		name = "CustomScrollBarViewController.h: 12";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	1FD7410E12CBE54100E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CustomScrollBarViewController.m */;
+		name = "CustomScrollBarViewController.m: 15";
+		rLen = 0;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	1FD7414212CBEAB000E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FD7407D12CB451A00E98341 /* CustomScrollBar.h */;
+		name = "CustomScrollBar.h: 24";
+		rLen = 0;
+		rLoc = 534;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	1FD7415112CBF61700E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FD7407E12CB451A00E98341 /* CustomScrollBar.m */;
+		name = "CustomScrollBar.m: 129";
+		rLen = 0;
+		rLoc = 3353;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 2894;
+	};
+	1FD741DA12CBFDC500E98341 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FD7407E12CB451A00E98341 /* CustomScrollBar.m */;
+		name = "CustomScrollBar.m: 75";
+		rLen = 0;
+		rLoc = 1739;
+		rType = 0;
+		vrLen = 1856;
+		vrLoc = 1492;
+	};
+	28D7ACF60DDB3853001CB0EB /* CustomScrollBarViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 1061}}";
+			sepNavSelRange = "{277, 0}";
+			sepNavVisRange = "{0, 478}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CustomScrollBarViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {993, 1061}}";
+			sepNavSelRange = "{325, 0}";
+			sepNavVisRange = "{0, 418}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1FD7406912CB449900E98341 /* CustomScrollBar */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CustomScrollBar */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CustomScrollBar */,
+		);
+		codeSenseManager = 1FD7407B12CB449E00E98341 /* Code sense */;
+		executables = (
+			1FD7406912CB449900E98341 /* CustomScrollBar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315358643;
+			PBXWorkspaceStateSaveDate = 315358643;
+		};
+		perUserProjectItems = {
+			1FD7409212CB510E00E98341 /* PBXBookmark */ = 1FD7409212CB510E00E98341 /* PBXBookmark */;
+			1FD740BB12CBDD7D00E98341 /* PBXTextBookmark */ = 1FD740BB12CBDD7D00E98341 /* PBXTextBookmark */;
+			1FD7410B12CBE54100E98341 /* PBXTextBookmark */ = 1FD7410B12CBE54100E98341 /* PBXTextBookmark */;
+			1FD7410C12CBE54100E98341 /* PBXTextBookmark */ = 1FD7410C12CBE54100E98341 /* PBXTextBookmark */;
+			1FD7410D12CBE54100E98341 /* PBXTextBookmark */ = 1FD7410D12CBE54100E98341 /* PBXTextBookmark */;
+			1FD7410E12CBE54100E98341 /* PBXTextBookmark */ = 1FD7410E12CBE54100E98341 /* PBXTextBookmark */;
+			1FD7414212CBEAB000E98341 /* PBXTextBookmark */ = 1FD7414212CBEAB000E98341 /* PBXTextBookmark */;
+			1FD7415112CBF61700E98341 /* PBXTextBookmark */ = 1FD7415112CBF61700E98341 /* PBXTextBookmark */;
+			1FD741DA12CBFDC500E98341 /* PBXTextBookmark */ = 1FD741DA12CBFDC500E98341 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1FD7407A12CB449E00E98341 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
