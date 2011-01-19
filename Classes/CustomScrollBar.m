@@ -53,10 +53,7 @@
 - (void)dealloc {
 	[_thumbImageView release];
 	[_thumbScrollView release];
-	if (_scrollView) {
-		_scrollView.delegate = nil;
-		[_scrollView release];
-	}
+	[_scrollView release];
     [super dealloc];
 }
 
@@ -68,17 +65,9 @@
 	if (_scrollView == scrollView) {
 		return;
 	}
-	if (_scrollView) {
-		if (_scrollView.delegate == self) {
-			_scrollView.delegate = nil;
-		}
-		[_scrollView release];
-	}
+	[_scrollView release];
 	_scrollView = [scrollView retain];
-	if (_scrollView) {
-		_scrollView.delegate = self;
-	}
-	[self updateContentSize];
+	[self scrollViewContentDidChange];
 }
 
 - (void)layoutSubviews {
@@ -192,6 +181,8 @@
 }
 
 - (void)scrollViewContentDidChange {
+	_sourceContentOffsetUpdatesCount = 0;
+	_thumbContentOffsetUpdatesCount = 0;
 	[self updateContentSize];
 	[self updateContentOffset];
 	[self updateThumbImagePosition];

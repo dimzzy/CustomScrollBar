@@ -234,6 +234,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -276,8 +278,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>6</integer>
-									<integer>1</integer>
+									<integer>11</integer>
+									<integer>9</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -310,14 +312,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1FD7407412CB449E00E98341</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CustomScrollBar.m</string>
+								<string>CustomScrollBarAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,21 +325,21 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1FD7407512CB449E00E98341</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>CustomScrollBar.m</string>
+										<string>CustomScrollBarAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1FD741DA12CBFDC500E98341</string>
+										<string>1FFD2D4012E71319004F8FA1</string>
 										<key>history</key>
 										<array>
 											<string>1FD7409212CB510E00E98341</string>
 											<string>1FD740BB12CBDD7D00E98341</string>
 											<string>1FD7410B12CBE54100E98341</string>
-											<string>1FD7410C12CBE54100E98341</string>
-											<string>1FD7410D12CBE54100E98341</string>
-											<string>1FD7410E12CBE54100E98341</string>
-											<string>1FD7414212CBEAB000E98341</string>
-											<string>1FD7415112CBF61700E98341</string>
+											<string>1FFD2D2F12E71278004F8FA1</string>
+											<string>1FFD2D3012E71278004F8FA1</string>
+											<string>1FFD2D3112E71278004F8FA1</string>
+											<string>1FFD2D3212E71278004F8FA1</string>
+											<string>1FFD2D3F12E71316004F8FA1</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -462,11 +462,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1FD741DB12CBFDC500E98341</string>
+				<string>1FFD2D3512E7127A004F8FA1</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>1FD741DC12CBFDC500E98341</string>
+				<string>1FFD2D3612E7127A004F8FA1</string>
 				<string>1FD7407412CB449E00E98341</string>
-				<string>1FD741DD12CBFDC500E98341</string>
+				<string>1FFD2D3712E7127A004F8FA1</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -615,13 +615,13 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1FD7409912CB510F00E98341</string>
+				<string>1FFD2D3812E7127A004F8FA1</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>1FD7409A12CB510F00E98341</string>
-				<string>1FD7409B12CB510F00E98341</string>
-				<string>1FD7409C12CB510F00E98341</string>
-				<string>1FD7409D12CB510F00E98341</string>
+				<string>1FFD2D3912E7127A004F8FA1</string>
+				<string>1FFD2D3A12E7127A004F8FA1</string>
+				<string>1FFD2D3B12E7127A004F8FA1</string>
+				<string>1FFD2D3C12E7127A004F8FA1</string>
 				<string>1FD7407412CB449E00E98341</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
@@ -656,6 +656,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1FFD2D4112E71319004F8FA1</string>
+		<string>1FFD2D3E12E7127A004F8FA1</string>
 		<string>/Users/dimzzy/Projects/dizbits/CustomScrollBar/CustomScrollBar.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
