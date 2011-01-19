@@ -1,0 +1,4 @@
+CustomScrollBar
+===============
+
+We all know that UIScrollView can show indicators&mdash;small thumbs that hint user how content is positioned within the UIScrollView. They overlay the view and can't be dragged as their desktop conterparts&mdash;scrollbars. In case you miss them or if you want custom thumbs you may use [CustomScrollBar](https://github.com/dimzzy/CustomScrollBar) that I've written exactly for this purpose. While not quite useful on the iPhone it may find its place on iPad where screen is larger and there is a place for fancy widget.
